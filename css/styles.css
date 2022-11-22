@@ -900,6 +900,10 @@ footer {
 .modal-form-agreement-link {
   color: var(--accent-color);
 }
+.modal-form-agreement-link {
+  text-underline-offset: 4px;
+}
+
 .modal-form-checkbox {
   appearance: none;
   width: 16px;
@@ -930,7 +934,4 @@ footer {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--text-color);
-}
-.modal-form-agreement-link {
-  text-underline-offset: 4px;
 }
